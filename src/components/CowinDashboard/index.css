@@ -1,0 +1,66 @@
+/* Write your CSS here */
+
+.co-win-dashboard {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 125px;
+}
+
+.logo {
+  width: 25px;
+  height: auto;
+}
+
+.logo-name {
+  font-family: ;
+  color: #2cc6c6;
+  font-size: 25px;
+}
+
+.heading {
+  font-family: Roboto;
+  color: #cbd5e1;
+  font-weight: normal;
+}
+
+.cowin-dashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-veiw {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: auto;
+  height: 300px;
+}
+
+.failure-message {
+  font-family: Roboto;
+  font-family: 25px;
+  color: #ffffff;
+}
